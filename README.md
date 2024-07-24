@@ -1,4 +1,5 @@
 # YouTube-Analytics-using-AWS
+This project leverages AWS services to transform raw YouTube data into structured formats, automate ETL workflows, and visualize insights, demonstrating a comprehensive data analytics solution.
 
 ## Data Flow:
 ![Data Flow 2](https://github.com/user-attachments/assets/cc249e9d-7bb4-4b17-ad31-5c3616695e55)
