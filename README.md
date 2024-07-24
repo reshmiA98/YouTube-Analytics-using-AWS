@@ -5,7 +5,7 @@ This project leverages AWS services to transform raw YouTube data into structure
 ![Data Flow 2](https://github.com/user-attachments/assets/cc249e9d-7bb4-4b17-ad31-5c3616695e55)
 
 
-## Following is a list of the AWS Services and how they were used in the project:
+## Following is a list of the AWS services used in the project and how they were utilized:
 
 ### 1) AWS S3 (Simple Storage Service):
 Landing Area: Used to store raw data ingested from source systems.
